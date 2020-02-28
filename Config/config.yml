@@ -1,0 +1,7 @@
+database:
+  host: localhost
+  name: creatuity
+  user: root
+  pass: root
+
+base_path: creatuity/
